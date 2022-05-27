@@ -1,9 +1,9 @@
 const contractAddress = "0xA4F731Da44129C05cD147247F4db17bDf2994B9f"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Arctic Animals NFT Project!!";
+const welcome_h1 = "Welcome to the Arctic Penguins NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Arctic Animals NFT Project references the open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Adapted from <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> by Zile Cao and Raiyan Siddique.';
+const welcome_p = 'The Arctic Penguins NFT Project is a collection of 2222 cute randomly generated NFTs drawn by Emily Cao. Developed by Zile Cao and Raiyan Siddique referencing <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a>.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
