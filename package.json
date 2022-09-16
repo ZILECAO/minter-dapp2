@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "concurrently": "^7.4.0",
+    "http-server": "^14.1.1"
+  },
+  "scripts": {
+    "start": "npm run build && npm run dev && npm run open",
+    "dev": "concurrently \"http-server -a localhost -p 1234\" \"open http://localhost:1234/frontend/index.html\""
+ }
+}
